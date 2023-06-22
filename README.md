@@ -1,4 +1,3 @@
-## FitMindful
 
 ![App Screenshot](https://i.ibb.co/DMmWmLW/Screenshot-1.jpg/468x300?text=App+Screenshot+Here)
 
