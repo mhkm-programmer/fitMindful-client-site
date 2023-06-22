@@ -1,13 +1,10 @@
-# b712-summer-camp-client-side-kabircodefolio
-b712-summer-camp-client-side-kabircodefolio created by GitHub Classroom
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/DMmWmLW/Screenshot-1.jpg/468x300?text=App+Screenshot+Here)
 
 # FitMindful Starter Repository
 
 FitMindful is yoga and meditation website that available different types of courses and tips!!!
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/DMmWmLW/Screenshot-1.jpg/468x300?text=App+Screenshot+Here)
 
 ## API Server Live Link
 - Hosted in Firebase: https://summer-camp-client-side-7eb5b.web.app/
